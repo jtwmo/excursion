@@ -20,6 +20,9 @@ h6{
   font-size: 16px;
   font-weight: normal;
 }
+.link{
+  color: aquamarine;
+}
 #copyright{
   text-align: right;
 }
